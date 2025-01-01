@@ -72,7 +72,7 @@ make -j4
 ## Reference
 * TensorFlow Lite Python image classification demo  
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/examples/python/
-* LiteRT 的 Linux 裝置快速入門導覽課程
+* LiteRT 的 Linux 裝置快速入門導覽課程  
 https://ai.google.dev/edge/litert/microcontrollers/python?hl=zh-tw
 * GPIOZERO  
 https://gpiozero.readthedocs.io/en/stable/api_output.html
@@ -80,7 +80,7 @@ https://gpiozero.readthedocs.io/en/stable/api_output.html
 https://hackmd.io/@LHB-0222/maker-1
 * 如何把手機當作ipCam  
 https://medium.com/nine9devtw/%E5%A6%82%E4%BD%95%E6%8A%8A%E6%89%8B%E6%A9%9F%E7%95%B6%E4%BD%9Cipcam-234586a220d4
-* Data Source:Garbage Classification
+* Data Source:Garbage Classification  
 https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 * Teachable Machine  
 https://teachablemachine.withgoogle.com/
